@@ -24,7 +24,7 @@ No installation or account required.
 
 ## Preview
 
-*Screenshot coming soon — a preview of the PingWatch monitoring dashboard will be added here.*
+![PingWatch Dashboard](screenshots/dashboardpreview.png)
 
 ## How It Works
 
